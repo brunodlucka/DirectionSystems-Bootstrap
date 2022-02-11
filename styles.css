@@ -1,0 +1,27 @@
+
+
+.navbar {
+    background-color: rgb(243, 245, 243);
+}
+
+.btn {
+background-color: rgb(248, 248, 248);
+margin-left: 30px;
+border-radius: 0.50rem;
+border: 2px solid  rgb(104, 103, 103);
+font-size: 1rem;
+}
+
+.form-control {
+    background-color: aliceblue;
+}
+
+.imagem2 {
+    margin: 50px;
+    margin-left: 300px;
+}
+
+.logo-direction-systems {
+    height: 70px;
+}
+
